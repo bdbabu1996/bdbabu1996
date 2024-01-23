@@ -1,8 +1,8 @@
 ![Web Developer]( https://scontent.fspd5-1.fna.fbcdn.net/v/t39.30808-6/420358116_3562881887312650_900796657509258510_n.jpg?stp=c0.7.520.519a_dst-jpg_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGwtHHTExIwCkteG2AHGgmtAhFQzYU_-5YCEVDNhT_7llwDSIiYa5dtaYAPgi5J4HHbXpnhXzXiCb8P5UzZzsB4&_nc_ohc=kJy2XBk44e0AX-Ol1pD&_nc_ht=scontent.fspd5-1.fna&oh=00_AfB-RooHg1cnweu1rZG63gW4pEl2r4Th64g9Ya9WfdNQ2g&oe=65B4B07A)
- 
- ### Hi there 👋, I'm Babu
-#### Web Developer
 
+### Hi there 👋, I'm Babu
+#### Web Developer
+![Web Developer]( https://scontent.fspd5-1.fna.fbcdn.net/v/t39.30808-6/420358116_3562881887312650_900796657509258510_n.jpg?stp=c0.7.520.519a_dst-jpg_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGwtHHTExIwCkteG2AHGgmtAhFQzYU_-5YCEVDNhT_7llwDSIiYa5dtaYAPgi5J4HHbXpnhXzXiCb8P5UzZzsB4&_nc_ohc=kJy2XBk44e0AX-Ol1pD&_nc_ht=scontent.fspd5-1.fna&oh=00_AfB-RooHg1cnweu1rZG63gW4pEl2r4Th64g9Ya9WfdNQ2g&oe=65B4B07A)
 
  I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 

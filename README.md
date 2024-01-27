@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fspd5-1.fna.fbcdn.net/v/t39.30808-6/417379854_3562888133978692_6451611749073630038_n.jpg?stp=dst-jpg_s600x600&_nc_cat=106&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeFbxEaniXlaxtx7VotydBkg5tP8XNDz8V_m0_xc0PPxX6dhk_EcIRQwW-aRNquDqBXntnbYgwCRbHdOiifAjjDe&_nc_ohc=vwtTUIg9pe8AX9RDvT9&_nc_ht=scontent.fspd5-1.fna&oh=00_AfCkJ6kqipxCie8xp-j4dHwyA2LchAbuJcTBBKxNZIGE8g&oe=65B51E9B)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/bdbabu1996/bdbabu1996/tree/main)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/princebabu.shiku)  
 
 
 ### Hi there 👋, I'm Babu
